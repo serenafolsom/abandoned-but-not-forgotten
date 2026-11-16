@@ -4,7 +4,9 @@ A short film made for the [NASA Space Apps Challenge 2026](https://www.spaceapps
 
 **Created by:** Serena Nguyen, 10th grade student at Silver Creek High School, San Jose, California, USA
 
-🎬 **Watch the introduction video:** [demo-video.mp4](demo-video.mp4)
+🎬 **Watch the introduction video:** [abandoned-but-not-forgotten-video.mp4](abandoned-but-not-forgotten-video.mp4)
+
+📊 **Demo presentation:** [demo-presentation.pptx](demo-presentation.pptx)
 
 > The final film is coming soon.
 
@@ -57,7 +59,8 @@ Instead of making a traditional documentary, I created a fictional character, Le
 
 | File | Description |
 | --- | --- |
-| `demo-video.mp4` | Introduction video for the project (the final film will be added later) |
+| `abandoned-but-not-forgotten-video.mp4` | Introduction video for the project (the final film will be added later) |
+| `demo-presentation.pptx` | 4-slide demo presentation of the project |
 | `README.md` | Project description |
 
 ## Acknowledgments
