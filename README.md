@@ -57,7 +57,7 @@ Instead of making a traditional documentary, I created a fictional character, Le
 
 | File | Description |
 | --- | --- |
-| `abandoned-but-not-forgotten-video.mp4` | Introduction video for the project (the final film will be added later) |
+| `abandoned-but-not-forgotten-video.mp4` | Project video |
 | `demo-presentation.pptx` | 4-slide demo presentation of the project |
 | `README.md` | Project description |
 
