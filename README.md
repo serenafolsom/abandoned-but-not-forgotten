@@ -8,8 +8,6 @@ A short film made for the [NASA Space Apps Challenge 2026](https://www.spaceapps
 
 📊 **Demo presentation:** [demo-presentation.pptx](demo-presentation.pptx)
 
-> The final film is coming soon.
-
 ---
 
 ## Overview
