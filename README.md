@@ -4,7 +4,7 @@ A short film made for the [NASA Space Apps Challenge 2026](https://www.spaceapps
 
 **Created by:** Serena Nguyen, 10th grade student at Silver Creek High School, San Jose, California, USA
 
-🎬 **Watch the introduction video:** [abandoned-but-not-forgotten-video.mp4](abandoned-but-not-forgotten-video.mp4)
+🎬 **Watch the final video:** [YouTube: Abandonned but not Forgotten](https://youtu.be/yqC8eR9Sti8)
 
 📊 **Demo presentation:** [demo-presentation.pptx](demo-presentation.pptx)
 
@@ -53,14 +53,6 @@ Instead of making a traditional documentary, I created a fictional character, Le
 - **Visual consistency:** keeping characters and settings consistent across scenes.
 - **Length:** fitting meaningful information into a short film.
 
-## Repository Contents
-
-| File | Description |
-| --- | --- |
-| `abandoned-but-not-forgotten-video.mp4` | Project video |
-| `demo-presentation.pptx` | 4-slide demo presentation of the project |
-| `README.md` | Project description |
 
 ## Acknowledgments
-
 Authentic photos and footage courtesy of NASA. Created for the NASA International Space Apps Challenge 2026.
